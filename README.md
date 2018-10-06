@@ -1,0 +1,2 @@
+# SolidityMusings
+Playing with Solidity
